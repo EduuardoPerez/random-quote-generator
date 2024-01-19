@@ -5,3 +5,7 @@ Random quote generator to return a randomly selected quote from a set of quotes.
 ## Generate documentation
 
 To generate the `docs` folder you can execute Sphinx with Poetry: `poetry run sphinx-quickstart docs`
+
+## Public documetation on Read The Docs
+
+<https://random-quote-generator-by-eduuardo-perez.readthedocs.io/en/latest/>
